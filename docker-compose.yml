@@ -1,7 +1,3 @@
-# Command: docker stack deploy streaming-stack --compose-file docker/flink-pinot-superset-stack.yml
-# Gary A. Stafford (2022-09-14)
-# Updated: 2022-12-26
-
 version: "3"
 services:
   zookeeper:
